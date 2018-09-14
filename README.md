@@ -7,11 +7,6 @@ This plugin is based on the native ACF File Field, that, unfortunately, does not
 
 ![ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video/blob/master/acf-audio-video-screencast.gif)
 
-# Development and Test
-This field is still in development.
-Please, test it before using in any production website.
-If you find any issues, or need some updates/enanchements please feel fre to [report them here](https://github.com/virgo79/acf-audio-video-player/issues). I'll do my best to keep up to date everything.
-
 # Installation
 1. Copy the acf-audio-video-player folder into your wp-content/plugins folder
 2. Activate the Advanced Custom Fields: Audio/Video Player Field plugin via the plugins admin page
@@ -39,3 +34,7 @@ This ACF Field has been tested with:
 - Wordpress 4.9.8
 - Does not work with ACF4
 
+# Development and Test
+This field is still in development.
+Please, test it before using in any production website.
+If you find any issues, or need some updates/enanchements please feel fre to [report them here](https://github.com/virgo79/acf-audio-video-player/issues). I'll do my best to keep up to date everything.
