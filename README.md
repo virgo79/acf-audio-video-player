@@ -17,6 +17,10 @@ If you find any issues, or need some updates/enanchements please feel fre to [re
 2. Activate the Advanced Custom Fields: Audio/Video Player Field plugin via the plugins admin page
 3. Create a new field via ACF and select the Audio/Video Player type
 
+# Usage
+- Select Shortcode as returned format to display the default mediaplayer (MediaElements)
+- Select Player HTML as returned format to display a basic HTML5 player (<video> or <audio>)
+
 # Migration from ACF Audio/Video Field (@ipsips)
 This field is the evolution of the [ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video) (that [no longer works](https://github.com/ipsips/acf-audio-video/issues) with the latests versions of ACF).
 If you wish to migrate from ACF Audio/Video to ACF Audio/Video Player Field, you can simply replace it with this field.
