@@ -4,6 +4,11 @@ Audio and Video Player for Advanced Custom Fields: select audio or video files f
 # Description
 This plugin let users select an audio or video file from the media library displaying it using the media player.
 This plugin is based on the native ACF File Field, that, unfortunately, does not have the feature to show the selected media file using the media player.
+This field is the evolution of the [ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video) by @ipsips.
+
+# Development and Test
+This field is still in development.
+Please, test it before using in any production website.
 
 # Installation
 1. Copy the acf-audio-video-player folder into your wp-content/plugins folder
@@ -15,10 +20,12 @@ This plugin is compatible with the old [ACF Audio/Video Field](https://github.co
 If you were using the ACF Audio/Video Field, and you are having issues using this field, you can simply replace it with this field.
 To replace the old ACF Audio/Video Field with Acf Audio/Video Player simply:
 - install the ACF Audio/Video Player
-- go to any ACF Field Gruop Screen and change every field type from 'Audio/Video' to 'Audio/Video Player'
+- go to any ACF Field Group Screen and change every field type from 'Audio/Video' to 'Audio/Video Player'
 
 # Compatibility
 This ACF Field has been tested with:
 - ACF 5.7.0 PRO or later (but should work even with ACF5)
 - Wordpress 4.9.8
+
+- Does not work with ACF4
 
