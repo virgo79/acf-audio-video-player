@@ -9,6 +9,7 @@ This field is the evolution of the [ACF Audio/Video Field](https://github.com/ip
 # Development and Test
 This field is still in development.
 Please, test it before using in any production website.
+If you find any issues, or need some updates/enanchements please feel fre to [report them here](https://github.com/virgo79/acf-audio-video-player/issues). I'll do my best to keep up to date everything.
 
 # Installation
 1. Copy the acf-audio-video-player folder into your wp-content/plugins folder
