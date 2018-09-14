@@ -4,7 +4,6 @@ Audio and Video Player for Advanced Custom Fields: select audio or video files f
 # Description
 This plugin let users select an audio or video file from the media library displaying it using the media player.
 This plugin is based on the native ACF File Field, that, unfortunately, does not have the feature to show the selected media file using the media player.
-This field is the evolution of the [ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video) by @ipsips.
 
 ![ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video/blob/master/acf-audio-video-screencast.gif)
 
@@ -19,11 +18,13 @@ If you find any issues, or need some updates/enanchements please feel fre to [re
 3. Create a new field via ACF and select the Audio/Video Player type
 
 # Migration from ACF Audio/Video Field (@ipsips)
-This plugin is compatible with the old [ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video) (that [no longer works](https://github.com/ipsips/acf-audio-video/issues) with the latests versions of ACF)
-If you were using the ACF Audio/Video Field, and you are having issues using this field, you can simply replace it with this field.
-To replace the old ACF Audio/Video Field with Acf Audio/Video Player simply:
+This field is the evolution of the [ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video) (that [no longer works](https://github.com/ipsips/acf-audio-video/issues) with the latests versions of ACF).
+If you wish to migrate from ACF Audio/Video to ACF Audio/Video Player Field, you can simply replace it with this field.
+To replace the ACF Audio/Video Field with ACF Audio/Video Player simply:
 - install the ACF Audio/Video Player
 - go to any ACF Field Group Screen and change every field type from 'Audio/Video' to 'Audio/Video Player'
+- check that everithing is working fine
+- uninstall ACF Audio/Video Field
 
 # Compatibility
 This ACF Field has been tested with:
