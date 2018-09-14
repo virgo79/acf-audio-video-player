@@ -28,8 +28,8 @@ If you wish to migrate from ACF Audio/Video to ACF Audio/Video Player Field, try
 1. Install the new ACF Audio/Video Player
 2. Change every field type from `audioVideo` to `Audio/Video Player`
 3. Ensure that `Field Name` and `Return Value` remain the same
-4. Resave every page/post/custom-post of your blog that has an Audio/Video Custom Field previously stored.
-5. Preview every post to be sure that the audio or video 
+4. Resave every page/post/custom-post of your blog that has an Audio/Video Custom Field previously stored
+5. Preview every post to be sure that the audio or video files are being displayed in frontend
 6. When finished uninstall the old ACF Audio/Video Field
 
 
