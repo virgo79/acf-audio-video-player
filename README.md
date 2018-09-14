@@ -11,7 +11,7 @@ This plugin is based on the native ACF File Field, that, unfortunately, does not
 3. Create a new field via ACF and select the Audio/Video Player type
 
 # Migration from ACF Audio/Video Field (@ipsips)
-This plugin is compatible with the old ACF Audio/Video Field (that no longer works with the latests versions of ACF)
+This plugin is compatible with the old [ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video) (that no longer works with the latests versions of ACF)
 If you were using the ACF Audio/Video Field, and you are having issues using this field, you can simply replace it with this field.
 To replace the old ACF Audio/Video Field with Acf Audio/Video Player simply:
 - install the ACF Audio/Video Player
