@@ -5,6 +5,7 @@ Audio and Video Player for Advanced Custom Fields: select audio or video files f
 This plugin let users select an audio or video file from the media library displaying it using the media player.
 This plugin is based on the native ACF File Field, that, unfortunately, does not have the feature to show the selected media file using the media player.
 This field is the evolution of the [ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video) by @ipsips.
+
 ![ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video/blob/master/acf-audio-video-screencast.gif)
 
 # Development and Test
