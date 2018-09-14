@@ -23,7 +23,7 @@ If you wish to migrate from ACF Audio/Video to ACF Audio/Video Player Field, you
 To replace the ACF Audio/Video Field with ACF Audio/Video Player simply:
 - install the ACF Audio/Video Player
 - go to any ACF Field Group Screen and change every field type from 'Audio/Video' to 'Audio/Video Player'
-- check that everithing is working fine
+- check that everything is working fine
 - uninstall ACF Audio/Video Field
 
 # Compatibility
