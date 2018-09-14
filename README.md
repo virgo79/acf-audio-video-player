@@ -2,7 +2,7 @@
 Audio and Video Player for Advanced Custom Fields: select audio or video files from Media Library and display them using the wordpress builtin media player (or the native html5 player). 
 
 # Description
-This plugin let users select an audio or video file from the media library displaying it using the media player.
+Inspired by the [ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video) this field let users select an audio or video file from the media library and it will be displayed using the media player.
 This plugin is based on the native ACF File Field, that, unfortunately, does not have the feature to show the selected media file using the media player.
 
 ![ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video/blob/master/acf-audio-video-screencast.gif)
