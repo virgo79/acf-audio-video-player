@@ -28,7 +28,7 @@ To replace the ACF Audio/Video Field with ACF Audio/Video Player simply:
 
 # Compatibility
 This ACF Field has been tested with:
-- ACF 5.7.0 PRO or later (but should work even with ACF5)
+- ACF 5.7.0 PRO or later (but should work also with ACF 5.x)
 - Wordpress 4.9.8
 
 - Does not work with ACF4
