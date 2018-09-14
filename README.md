@@ -19,7 +19,7 @@ If you find any issues, or need some updates/enanchements please feel fre to [re
 
 # Usage
 - Select Shortcode as returned format to display the default mediaplayer (MediaElements)
-- Select Player HTML as returned format to display a basic HTML5 player (<video> or <audio>)
+- Select Player HTML as returned format to display a basic HTML5 player (`<video>` or `<audio>`)
 
 # Migration from ACF Audio/Video Field (@ipsips)
 This field is the evolution of the [ACF Audio/Video Field](https://github.com/ipsips/acf-audio-video) (that [no longer works](https://github.com/ipsips/acf-audio-video/issues) with the latests versions of ACF).
