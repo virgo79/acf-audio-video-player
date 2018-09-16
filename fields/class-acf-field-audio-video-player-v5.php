@@ -381,22 +381,7 @@ class acf_field_audio_video_player extends acf_field {
 	function get_file_type( $file_id ) {
 		
 		$mime_type = get_post_mime_type($file_id);
-		
-		switch ($mime_type) {
-			
-			case 'video/mp4':
-			case 'video/mpeg':
-			case 'video/webm':
-			case 'video/ogg':
-			case 'video/quicktime': return 'video'; break;
-			
-			case 'audio/mpeg':
-			case 'audio/ogg' :
-			case 'audio/wav' : return 'audio'; break;
-			
-			default: return '';
-			
-		}
+		return acf_maybe_get(explode('/', $mime_type), 0, '');
 		
 	}
 	
